@@ -6,7 +6,6 @@ This repository contains elementary game development projects using Unity and C#
    * Game illustates the solar system views in many perspectives.
    * Player can change the display perspectives by clicking a planet.
 
-![Screenshot_SS](2D Shooter/Screenshots/Screenshot_1451x907_3.png)
 ![Screenshot_SS](SolarSystem/SolarSystemTest.png)
 
 
@@ -14,7 +13,7 @@ This repository contains elementary game development projects using Unity and C#
    * A 2D Shooting game with self designed levels.
    * Fully equipped with Menu, In Game UI.
 
-![2D_Shooter](2D Shooter/Screenshots/Screenshot_1451x907_3.png)
+![2D_Shooter](2D%20Shooter/Screenshots/Screenshot_1451x907_3.png)
 
 ## Project 3: Escape from the Pyramid
    * Project built as prototype for another game.
