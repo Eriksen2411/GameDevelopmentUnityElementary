@@ -12,7 +12,7 @@ This repository contains elementary game development projects using Unity and C#
    * A 2D Shooting game with self designed levels.
    * Fully equipped with Menu, In Game UI.
 
-![Screenshot](2D Shooter/Screenshots/Screenshot_1451x907_3.png)
+![2D_Shooter](2D Shooter/Screenshots/Screenshot_1451x907_3.png)
 
 ## Project 3: Escape from the Pyramid
    * Project built as prototype for another game.
