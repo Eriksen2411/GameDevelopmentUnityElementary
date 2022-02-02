@@ -6,7 +6,9 @@ This repository contains elementary game development projects using Unity and C#
    * Game illustates the solar system views in many perspectives.
    * Player can change the display perspectives by clicking a planet.
 
+![Screenshot_SS](2D Shooter/Screenshots/Screenshot_1451x907_3.png)
 ![Screenshot_SS](SolarSystem/SolarSystemTest.png)
+
 
 ## Project 2: 2D Shooter
    * A 2D Shooting game with self designed levels.
